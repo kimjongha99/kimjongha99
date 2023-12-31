@@ -1,7 +1,7 @@
 <h2> 😃Nice to meet you!😃 I'm Jongha Kim. <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="50" style="border-radius: 50%;"></h2>
 <img src="image/profile.jpg" align="right" width="230" style="border-radius: 50%;" />
 
-    자바를 주력으로 사용하는 개발자로서,
+    자바를 주력으로 사용하는 개발자 지망생입니다,
     백엔드에서 스프링 부트의 다양한 의존성을 활용해
     서버 작업을 효율적으로 조직하는 데 중점을 두고 있습니다.
     추가적으로 프론트엔드 역시 소홀히 다루지 않고

@@ -54,3 +54,7 @@
   </a>
 </p>
 </details>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=kimjongha99&color=lightgrey&style=flat-square&label=Profile+Views" />
+</p>
